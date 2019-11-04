@@ -11,5 +11,9 @@ h1 {
   background: black;
   color: white;
 }
+.btn-danger {
+  background: brown;
+  color: grey;
+}
 
 /*# sourceMappingURL=style.css.map */

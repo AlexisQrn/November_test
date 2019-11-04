@@ -1,4 +1,8 @@
 $myVariable: pink;
+@mixin name {
+    color:white;
+    background: yellowgreen;
+}
 
 h1{
     color: $myVariable;
@@ -12,4 +16,14 @@ h1{
 &:hover{
     background:black;
     color: white;
-}}
+}
+
+&-danger{
+    background: brown;
+    color: grey;
+}
+
+
+}
+
+
