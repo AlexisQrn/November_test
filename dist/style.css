@@ -1,0 +1,15 @@
+h1 {
+  color: pink;
+}
+
+.btn {
+  padding: 20px;
+  border-radius: 10px;
+  font-size: 25px;
+}
+.btn:hover {
+  background: black;
+  color: white;
+}
+
+/*# sourceMappingURL=style.css.map */
